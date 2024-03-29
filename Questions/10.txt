@@ -1,0 +1,2 @@
+Valid explanation e.g.
+‘There is no value for which 0 ´ .... = 1’ or ‘1 cannot be divided by 0’ or ‘Because if one of them is zero, the product would be zero not 1’.

@@ -1,0 +1,1 @@
+Many candidates determined that if either x or y were to be zero then the answer would have to be zero and not 1. 

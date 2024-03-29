@@ -1,0 +1,8 @@
+Aminata invested £2500 for n years in a savings account.
+She was paid 3% per annum compound interest.
+
+At the end of n years, Aminata has £2813.77 in the savings account.
+
+Work out the value of n.
+
+(2 marks)

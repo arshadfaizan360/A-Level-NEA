@@ -1,0 +1,3 @@
+Candidates who understood the principle of compound interest usually obtained full marks, often by calculating the amount after 1, 2, 3 and 4 years. More sophisticated answers involved the use of 1.034, however, it was common to see the correct answer without working, probably from good candidates failing to show their working. Candidates do need to be strongly advised to show all calculations.
+
+However, there were a variety of incorrect responses largely coming from use of simple interest. Many of these found £75 for the first year and then attempted to divide £313.77 by this to get an answer. Others kept on adding £75 until they got close to the required amount.

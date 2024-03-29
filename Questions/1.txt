@@ -1,0 +1,4 @@
+M1 for an attempt to evaluate 2500 x 1.03^n for at least one value of n (not equal to 1)
+Or 2813.77 / 2500 (=1.1255...) and 1.03^n evaluated, n ≥ 2
+Or finding at least two correct interest payments. ie 75 and 77.25
+A1 for 4 cao

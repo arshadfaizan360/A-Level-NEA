@@ -1,0 +1,2 @@
+xy = 1
+Explain why neither x nor y can be zero. 
